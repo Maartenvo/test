@@ -1,1 +1,1 @@
-# Develop branch
+# Acceptance branch
